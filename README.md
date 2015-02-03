@@ -60,6 +60,8 @@ Security:
 
 >Passwords are stored as encrypted hashes with an additional random salt for added security.
 
+Note: If we talk about security,above mentioned points would provide no security at all but it will work for beginners. Being into web app pentesting,I very well know this project will not be considered secure. It needs atleast a more effective filtering mechanism, better hashing algorithm, a better salting procedure for storing passwords and some other things too.
+
 Database:
 
 >The database contains customer, staff & admin tables.
