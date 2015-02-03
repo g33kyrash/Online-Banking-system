@@ -96,4 +96,7 @@ Usage:
 
 7.visit localhost/banking/staff_login.php (staff login)
 
+Note: The customers password is hashed and stored in the database. You will not be able to see it.
+The password is 'rash' for almost all the customers,just in case if you want to login with the pre added customer. 
+
 
