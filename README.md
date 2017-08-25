@@ -7,20 +7,7 @@ The original project has nothing to do with phishing or any other malicious purp
 
 
 # Online-Banking-system
-Online Banking System in PHP & MySQL.
-
-Authors: 
-        
-         Rashid Feroz [rashid.2008feroz@gmail.com]
-         fb - facebook.com/rashid.feroz1
-         website - www.hackwhiz.com
-         
-         Kuldeep kumar [kuldeepanditkumar@gmail.com]
-         fb - facebook.com/kuldeepanditkumar
-         
-         Abhimanyu shrivastava [aabhimanyu13@gmail.com]
-         fb - facebook.com/abhimanyu.shrivastava.58
-         
+Online Banking System in PHP & MySQL.         
 
 Screenshots and description: http://hackwhiz.com/2015/02/online-banking-system-php-mysql/ 
 
