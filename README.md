@@ -6,7 +6,6 @@ The original project has nothing to do with phishing or any other malicious purp
 # Online-Banking-system
 Online Banking System in PHP & MySQL.         
 
-Screenshots and description: http://hackwhiz.com/2015/02/online-banking-system-php-mysql/ 
 
 The project’s primary goals consist of:
 
